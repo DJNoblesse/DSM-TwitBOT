@@ -1,0 +1,20 @@
+{
+  "name": "dsm-twitbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Noblesse Idenkate",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "date-utils": "^1.2.21",
+    "express": "^4.15.1",
+    "express-json-response": "^1.0.0",
+    "http": "0.0.0",
+    "node-twitterbot": "^0.2.2",
+    "request": "^2.83.0"
+  }
+}
