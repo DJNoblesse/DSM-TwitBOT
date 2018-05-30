@@ -70,5 +70,5 @@ app.post('/manualNotice', function (req, res) {
 
 
 http.listen(33071, function() {
-	console.log('listening on https port:33071');
+	console.log('listening on http port:33071');
 });
